@@ -1,0 +1,22 @@
+{
+  "name": "is-saikumar",
+  "version": "1.0.0",
+  "description": "Is the string saikumar?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiKumarm238/new-npm-package.git"
+  },
+  "keywords": [
+    "sai"
+  ],
+  "author": "Saikumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiKumarm238/new-npm-package/issues"
+  },
+  "homepage": "https://github.com/SaiKumarm238/new-npm-package#readme"
+}
